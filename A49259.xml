@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from Ireland, or, A true relation of a great and happy victorie obtained by Colonell David Douglasse and Sir Iames Carr, two Scottish commanders, with the helpe of the Scots planted in the North of Ireland against the arch-rebels Philemy Oneal, the Earle of Delvin and Sir Denis Butler where there was 6 or 7000 of the rebels slaine ... / written from Dublin, Febr. 18 by Tho. Lancton, secretarie unto Sir Charles Coote and received by the last post Febr. 23, 1641.</title>
+            <author>Lancton, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49259</idno>
+            <idno type="STC">Wing L318</idno>
+            <idno type="STC">ESTC R30488</idno>
+            <idno type="EEBO-CITATION">11342589</idno>
+            <idno type="OCLC">ocm 11342589</idno>
+            <idno type="VID">47503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from Ireland, or, A true relation of a great and happy victorie obtained by Colonell David Douglasse and Sir Iames Carr, two Scottish commanders, with the helpe of the Scots planted in the North of Ireland against the arch-rebels Philemy Oneal, the Earle of Delvin and Sir Denis Butler where there was 6 or 7000 of the rebels slaine ... / written from Dublin, Febr. 18 by Tho. Lancton, secretarie unto Sir Charles Coote and received by the last post Febr. 23, 1641.</title>
+                  <author>Lancton, Thomas.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for J. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47503:1"/>
+            <!-- PDF PAGE 113 -->
+            <pb facs="tcp:47503:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 113 -->
+            <p>Exceeding Joyfull Newes FROM IRELAND. OR, A true Relation of a great and happy Victorie, obtained by Colonell <hi>David Douglaſſe</hi> and Sir <hi>Iames Carr,</hi> two <hi>Scottiſh</hi> Commanders, with the helpe of the Scots planted in the North of <hi>Jreland,</hi> againſt the Arch-Rebels <hi>Philemy Oneale,</hi> the Earle of <hi>Del<g ref="char:EOLhyphen"/>vin,</hi> and Sir <hi>Denis Butler.</hi>
+            </p>
+            <p>Where there was 6. or 7000 of the Rebels ſlaine up<g ref="char:EOLhyphen"/>on the place, 4000 Armes taken from them, and 4. Field-Pieces. Within 9. <hi>Iriſh</hi> myles of <hi>Knockfergus, February,</hi> 16. 1641.</p>
+            <p>Written from <hi>Dublin, Febr.</hi> 18, by <hi>Tho. Lancton,</hi> Secretarie unto Sir <hi>Charles Coote,</hi> and received by the laſt Poſt, <hi>Febr.</hi> 23. 1641.</p>
+            <p>LONDON, Printed by <hi>T. F.</hi> for <hi>J. Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47503:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:47503:2"/>
+            <!-- PDF PAGE 114 -->
+            <head>Joyfull Newes from <hi>IRELAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I can write nothing of mine owne perſonall knowledge as being there pre<g ref="char:EOLhyphen"/>ſent. Yet the matter being ſuch, as that the whole State and Councell here at <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> is undoubtedly informed of the truth and certainty of it, and publike thanks openly given in the Cathedrall Church of St. <hi>Patrick</hi> here in <hi>Dublin</hi> in that behalfe you may without ſcruple embrace it as for good ſo credible tydings: Victory hath not onely ſhined divers wayes lately upon the <hi>Engliſh</hi> Banner hereabouts, but God hath alſo granted a moſt ſucceſſe<g ref="char:EOLhyphen"/>full day to our friends and Brethren, the <hi>Scots</hi> in the Northerne parts, within 9. myles of the Towne called <hi>Knockfergus,</hi> on the 16. of <hi>February</hi> laſt betwixt 3. and 4. of the clocke in the afternoone, as we are here cre<g ref="char:EOLhyphen"/>dibly enformed by divers Letters and meſſengers that are here arrived by Sea from thoſe parts, which Victo<g ref="char:EOLhyphen"/>ry was obtained under the conduct and command of two <hi>Scottiſh</hi> Commanders, Colonell <hi>Davie Duglas,</hi> and Sir <hi>Iames Carre</hi> Colonell, with the ayd and aſſiſtance of all the <hi>Scottiſh</hi> Inhabitants in thoſe parts, which <hi>Scottiſh</hi> Victory very great and glorious, was occaſio<g ref="char:EOLhyphen"/>ned as followeth.</p>
+            <p>The Arch-Rebels <hi>Philemy Oneale,</hi> the Earle of <hi>Del<g ref="char:EOLhyphen"/>vin,</hi> and Sir <hi>Denis Butler,</hi> having intelligence that great
+<pb facs="tcp:47503:3"/>
+               <!-- PDF PAGE 115 -->
+aides and forces, are with all ſpeed making ready in <hi>Scotland,</hi> under the Command of Generall <hi>Laſley,</hi> and the other three Lords, Commiſſioners, to be tranſpor<g ref="char:EOLhyphen"/>ted into that part of <hi>Ireland viz.</hi> the North where their Country-men are allready planted, thought it their cheifeſt play to be aforehand, and to attempt the the utter extirpation of the <hi>Scots:</hi> before any farther ſtrength would joyne with them from <hi>Scotland,</hi> being aſſured, as well they might, that what good ſucceſſe wee for our parts might wiſh them in heart, yet be<g ref="char:EOLhyphen"/>ing ſo incumbred by their fellowes almoſt at <hi>Dublin</hi> gates, we could affoord them little helpe by hands, ſee<g ref="char:EOLhyphen"/>ing our Supplyes with the Lord <hi>Lievtenant,</hi> are not yet arriv'd out of <hi>England,</hi> heereupon theſe foreſaid <hi>Rebels</hi> to the number of 12. or 14. Thouſand as well armed for this Country, and for ſo great a number as ever was ſeene in <hi>Ireland,</hi> drew directly into the North to accompliſh their deſigne: the <hi>Scots</hi> for certaine hearing of their coming, and that they were within 5. and thirty Myles march of them, and that with ſo great a Power, began at the right end, and conſidering the danger ſo great and ſo eminent, Proclaimed a Faſt, and Generall Humiliation the next day, through out all their Quarters, and the next day after, vnder the Command of the two Commanders aforeſaid, Colo<g ref="char:EOLhyphen"/>nell <hi>Duglas</hi> and Sr. <hi>Iames Carr,</hi> old Souldiers that ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſerved long in the <hi>Swediſh</hi> Warre, they muſtered all their Infantrie, and Cavallarie, which conſiſted of 4. or 5. Thouſand Foote, and about Nine Hundred and Fiftie Horſe, ſome three Thouſand Muſkets, and a<g ref="char:EOLhyphen"/>bout as many Pikes, and halfe-Pikes, their Horſe-men had their Swords and Lances, ſome 200. their Piſtols
+<pb facs="tcp:47503:3"/>
+               <!-- PDF PAGE 115 -->
+ſuch as they were, and this was ſent <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Councell, the chiefeſt of the Armor they had was their Courages, (being the chiefeſt thing that did it) their greateſt number being armed with ſuch things as their Country would afforde, being Tooles rather then Armes, and fitter to make tillage withall then to fight a pitcht Battell, as Pick-Axes, Forks, great long Clubs Iron B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes, long Poles, but God ſaith <hi>Salomon,</hi> doth not alwayes give the day unto the ſtrongeſt and like<g ref="char:EOLhyphen"/>lieſt Armie, as will appeare by the enſuing diſcourſe, the Scottiſh Colonels had ſent out Spyes to ſee the behaviour of the Iriſh <hi>Rebels,</hi> and by them had tidings that their Horſe, which they judged in number to be about 14. Hundred, marched, and began to plunder the Scottiſh Cabins, and drive away their Heards, being afore in diſtance as they deemed, at leaſt 2. Iriſh Miles from the Groſſe of their Foote, the Scottiſh Commanders, old Soldiers, were not a whit ſorrow<g ref="char:EOLhyphen"/>full to heare that Newes, hoping as it fell out, the next day to take their Horſe at that diſtance on the morrow, and to entertaine them a part from the Re<g ref="char:EOLhyphen"/>bels Infanterie, for by their owne report they feared moſt the Iriſh Cavallerie, as being better Armed, and more in number, whereupon <hi>Duglas,</hi> with Fifteene Hundred of his beſt ſhot, and but Five Hundred Pikes, clapped at three of the clocke in the morning, into a Wood called the <hi>Bower</hi> of <hi>St. Patricke,</hi> without Drum or any Warlike muſicall Inſtrument, coun<g ref="char:EOLhyphen"/>celling <hi>Sir Iames Carr</hi> to keepe his ſtation, and to ſuffer the Enemie, to come to him if he pleaſed: not to ſtirre a Foote to meete him.</p>
+            <p>
+               <pb facs="tcp:47503:4"/>
+               <!-- PDF PAGE 116 -->About 8. in the morning <hi>Oneals</hi> Horſe ſet <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as cocke ſure, and therefore careleſſe of their <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and advanced all along the brough of the Bower, e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n within halfe a Mile of <hi>Carr,</hi> whom they eſpying to ſtand ſtill, and not to move, thinking he had beene danted, forgetting how farre their owne Groſſe was behind, put Spurres to horſe, and fiercely charged upon him crying all is ours, all is ours, <hi>Carr</hi> ſoberly and ſad<g ref="char:EOLhyphen"/>ly received them, and made them ſtand, out came <hi>Dug<g ref="char:EOLhyphen"/>lis</hi> iuſt behind them playing moſt furiouſly with his ſhot, the Scottiſh horſe though but weake and few, in reſpect of them, ſeeing them thus coopt in, thinking what was to be done, was to be done before their Foote came neare, gave them a furious charge in the Flanke, as <hi>Duglis</hi> did not omit to doe his part in the Reare, as <hi>Carr</hi> in their Vanne, the <hi>Iriſh</hi> thus ſeeing them<g ref="char:EOLhyphen"/>ſelves hem'd in and caſt off their Foote, were uttely quel'd in their courages, and caſting about to retire, but ſeeing no way, preſently plundered in their Order, and were immediately confounded, ſlaine and caſt to the ground, now drew on their Groſſe of Infanterie, who ſeeing the overthrow of their Horſe, and the Scots reunited into a maine Groſſe againe, and in poſture to charge made a ſtand, which the Scottiſh Collonels peerceiving, <hi>Duglis</hi> commanded <hi>Andrew Steward</hi> who had the charge of the Horſe, to paſſe over a ſhallow Brooke, and under ſhelter of that wood called the <hi>Bower,</hi> to round the Rebels, and upon ſignall given to charge behinde.</p>
+            <p>When <hi>Steward</hi> was gone upon this command, <hi>O<g ref="char:EOLhyphen"/>neale</hi> conſtruing the Action in worſer ſence then it was meant, beate a charge with his Drums, an<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhocked
+<pb facs="tcp:47503:4"/>
+               <!-- PDF PAGE 116 -->
+Groſſe to Groſſe, where was a hot and cruell fight Fortune perceiveable enclining to neither party, the <hi>Scots</hi> behaved themſelves very valorouſly, and it is hard to ſay, whether the men were more active in per<g ref="char:EOLhyphen"/>formance, then the women, of whom there were no ſmall number, in emboldening and crying upon them, at laſt <hi>Steward</hi> broke out of the Wood upon them in the <hi>Reare,</hi> whoſe unexpected charge breaking in upon them that were ſlighteſt Armed, and expecting no hurt from that end of the World) ſo both amazed, diſheart<g ref="char:EOLhyphen"/>ned, and routed them, that they ſuppoſing that there was ſome not dream't on power of foote as well as horſe behind them, betooke themſelves to a plaine flight, ſhifting here and there every man for himſelfe, caſting downe their weapons, and abandoning their 4. peeces of Artillery unto the diſpoſe of the <hi>Scots,</hi> who made no ſcruple of the leiſure; here the <hi>Iriſh</hi> were to ſweare for the <hi>Scots</hi> not in onely ſtanding to it, but in flying from it, for the <hi>Scots</hi> followed faſter then they could flye, being as ably diſpoſed in that point as the <hi>Iriſh,</hi> in the battell and purſuite were ſlain between 16 and 17000. but no man of note as the State and courſe are informed ſave Sir <hi>Denis Butler,</hi> Baſtard brother unto the Lord <hi>Mount Garret,</hi> who was ſhot with a Muſket through the right eye, there was ſuffi<g ref="char:EOLhyphen"/>cient Armes, for betwixt 3. and 4000 men was there left upon the ground, for thoſe that would take it up, which by Gods mercy happened to be the <hi>Scots,</hi> for one eſpeciall guift is obſerved among the <hi>Iriſh,</hi> if they chance to looſe the day, they love to goe as light away as they can; the wing of this field I hope will ſo hum<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:47503:5"/>
+               <!-- PDF PAGE 117 -->
+the Rebels, that the State ſhall little feare to give any other anſwer unto the peremptory Demands of their aſſociate Rebels, that by the meanes of a Letter were preſented unto them, <hi>February</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Signed with the Seale of Armes of divers of the Rebels Lords, of whom with their Impudent Demand, I have here ſent you a liſt, the State I ſay ſhall have little cauſe I hope to anſwer any ſuch Demands, ſave with Shot and Powder, I truſt that this great o<g ref="char:EOLhyphen"/>verthrow hath paſſing well cooled their fiery cru<g ref="char:EOLhyphen"/>ell Spirits. <g ref="char:dtristar">*⁎*</g>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47503:5"/>
+            <!-- PDF PAGE 117 -->
+         </div>
+      </body>
+   </text>
+</TEI>
